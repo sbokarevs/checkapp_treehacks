@@ -1,0 +1,1 @@
+export type queryType = 'symptom' | 'diagnosis' | 'doctor' | 'image' | 'text' | 'question';
